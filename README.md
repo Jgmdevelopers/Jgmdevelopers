@@ -7,18 +7,6 @@
 
 ¡Me apasiona el mundo de la programación y la tecnología! He dedicado mi carrera a aprender y mejorar mis habilidades en el desarrollo de software. Mi experiencia laboral en la División de Comunicaciones me ha permitido enfrentar desafíos interesantes y contribuir al desarrollo de soluciones innovadoras para mejorar la seguridad en nuestra comunidad.
 
-## Trabajos destacados
-
-Aquí encontrarás algunos de mis proyectos más recientes:
-
-- **Proyecto 1:** [Breve descripción del proyecto y enlace si está disponible]
-- **Proyecto 2:** [Breve descripción del proyecto y enlace si está disponible]
-- **Proyecto 3:** [Breve descripción del proyecto y enlace si está disponible]
-
-## Captura de pantalla
-
-
-
 ¡Aquí estoy trabajando duro para llevar mis ideas al siguiente nivel!
 
 ## Contacto
