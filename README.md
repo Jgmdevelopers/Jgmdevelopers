@@ -12,7 +12,7 @@ Me apasiona el mundo de la programación y la tecnología. He dedicado mi carrer
 
 **Policía de Tierra del Fuego, División de Comunicaciones**  
 *Desarrollador de Software*  
-* Detalles de responsabilidades y logros
+Soy responsable del desarrollo del Turnero Digital, un sistema de turnos en línea que será utilizado en toda la provincia de Tierra del Fuego para gestionar trámites personales. Además, he desarrollado una libreta personal para el personal policial que funciona como una base de datos de bolsillo.
 
 ## Habilidades Técnicas
 
@@ -24,14 +24,28 @@ Me apasiona el mundo de la programación y la tecnología. He dedicado mi carrer
 
 ## Proyectos Destacados
 
-- **Turnero Digital**: Sistema de turnos en línea para la Policía de Tierra del Fuego para trámites personales. Desarrollado utilizando PHP, MySQL y Laravel.
+- **Turnero Digital**: Sistema de turnos en línea para la Policía de Tierra del Fuego para trámites personales. Desarrollado utilizando PHP, MySQL y Laravel. Este sistema facilita la gestión eficiente de los turnos y mejora la atención al público.
+- **Libreta Personal**: Aplicación desarrollada para el personal policial que permite gestionar información personal y profesional de manera accesible desde dispositivos móviles. Funciona como una base de datos de bolsillo.
 - **Juegos en Java**: Desarrollo de varios juegos utilizando Java, demostrando habilidades en programación orientada a objetos y desarrollo de interfaces gráficas.
+  - Ejemplo: Juego de Minitenis, que incluye lógica de rebote y aumento de dificultad progresivo.
 
 ## Educación
 
-**Instituto [Nombre de la Institución]**  
+**Instituto Superior Teclab**  
 *Técnico Superior en Programación*  
-*Año de Graduación: [Año]*
+*Año de Graduación: 2023*
+
+## Certificaciones
+
+- **Curso de Java Avanzado** - En proceso de certificación
+- **Curso de PHP Avanzado** - En proceso de certificación
+- **Python Full Stack** - Codo a Codo, en proceso de certificación
+
+## Intereses
+
+- Desarrollo de software backend y lógica de programación.
+- Aprendizaje de nuevas tecnologías y lenguajes de programación.
+- Participación en hackathons y competencias de programación.
 
 ## Contacto
 
