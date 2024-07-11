@@ -16,11 +16,11 @@ Además de ser responsable del backend de la página web de la Policía de Tierr
 
 ## Habilidades Técnicas
 
-- **Lenguajes de Programación**: Java, JavaScript, PHP
-- **Frameworks**: Laravel, Livewire
-- **Bases de Datos**: MySQL
+- **Lenguajes de Programación**: PhP, Java, Python, JavaScript
+- **Frameworks**: Laravel, Livewire, Flask
+- **Bases de Datos**: MySQL, Firebase
 - **Tecnologías Web**: HTML, CSS, JavaScript
-- **Herramientas**: Git, Docker
+- **Herramientas**: Git, Docker, GitHub
 
 ## Proyectos Destacados
 
@@ -37,6 +37,7 @@ Además de ser responsable del backend de la página web de la Policía de Tierr
 ## Certificaciones
 
 - **Curso de Java Avanzado** - En proceso de certificación
+- **Curso de PHP con MySql** - En proceso de certificación
 - **Curso de PHP Avanzado** - En proceso de certificación
 - **Python Full Stack** - Codo a Codo, en proceso de certificación
 
