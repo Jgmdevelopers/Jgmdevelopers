@@ -1,6 +1,6 @@
 # Bienvenido/a a mi Perfil
 
-¡Hola! Soy Gabriel, un apasionado Técnico Superior en Programación con experiencia en el desarrollo de software y residente en Ushuaia, provincia de Tierra del Fuego, Argentina. Actualmente, despliego mis habilidades en el área de desarrollo de la Policía de Tierra del Fuego, específicamente en la División de Comunicaciones.
+¡Hola! Soy Gabriel, Técnico Superior en Programación con experiencia en el desarrollo Full Stack de software y residente en Ushuaia, provincia de Tierra del Fuego, Argentina. Actualmente, despliego mis habilidades en el área de desarrollo de la Policía de Tierra del Fuego, específicamente en la División de Comunicaciones.
 
 ![Gabriel - Programador](https://images.pexels.com/photos/943096/pexels-photo-943096.jpeg?auto=compress&cs=tinysrgb&w=600)
 
@@ -24,8 +24,9 @@ Además de ser responsable del backend de la página web de la Policía de Tierr
 
 ## Proyectos Destacados
 
-- **Turnero Digital**: Sistema de turnos en línea para la Policía de Tierra del Fuego, desarrollado con PHP, MySQL y Laravel. Optimiza la gestión de turnos y mejora la experiencia del usuario.
-- **Libreta Personal**: Aplicación móvil para el personal policial, que facilita el acceso a información personal y profesional.
+- **Turnero Digital S.A.T.O**: Sistema de Adminisración Turnos en Online para la Policía de Tierra del Fuego, desarrollado en Laravel con PHP, MySQL. Optimiza la gestión de turnos y mejora la experiencia del usuario.
+- **ViggiAPP**: Aplicación móvil para el personal policial, que facilita el acceso a informmacion necesaria para la laboria diaria, es una herramienta que forma parte del sistema web viggiWeb.
+- - **ViggiWeb**: Aplicación Web para el personal policial, que tiene como fin la administración de los datos recabados desde la app mobile, la misma organiza los registros de cada usuario a travez de roles y permisos para que cada personal tenga un lugar seguro para administrar la informacion que necesita parar la laborl diaria.
 - **Backend de la Página Web**: Responsable del desarrollo del backend de la página web institucional, utilizando Laravel y Livewire para garantizar un funcionamiento óptimo y seguro.
 
 ## Educación
@@ -36,10 +37,11 @@ Además de ser responsable del backend de la página web de la Policía de Tierr
 
 ## Certificaciones
 
-- **Curso de Java Avanzado** - En proceso de certificación
-- **Curso de PHP con MySql** - En proceso de certificación
-- **Curso de PHP Avanzado** - En proceso de certificación
-- **Python Full Stack** - Codo a Codo, en proceso de certificación
+- **Curso de Java Avanzado** - Certificado.
+- **Curso de PHP con MySql** - Certificado.
+- **Curso de PHP Avanzado** - Certificado.
+- **Python Full Stack** - Certificado.
+- **Curso de Base de Datos** - En proceso de certificación
 
 ## Intereses
 
