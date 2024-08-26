@@ -25,7 +25,7 @@ Además de ser responsable del backend de la página web de la Policía de Tierr
 ## Proyectos Destacados
 
 - **Turnero Digital S.A.T.O**: Sistema de Adminisración Turnos en Online para la Policía de Tierra del Fuego, desarrollado en Laravel con PHP, MySQL. Optimiza la gestión de turnos y mejora la experiencia del usuario.
-- **ViggiAPP**: Aplicación móvil para el personal policial, que facilita el acceso a informmacion necesaria para la laboria diaria, es una herramienta que forma parte del sistema web viggiWeb.
+- **ViggiAPP**: Aplicación móvil para el personal policial, que facilita el acceso a informmacion necesaria para la labor diaria, es una herramienta que forma parte del sistema web viggiWeb.
 - **ViggiWeb**: Aplicación Web para el personal policial, que tiene como fin la administración de los datos recabados desde la app mobile, la misma organiza los registros de cada usuario a travez de roles y permisos para que cada personal tenga un lugar seguro para administrar la informacion que necesita parar la laborl diaria.
 - **Backend de la Página Web**: Responsable del desarrollo del backend de la página web institucional, utilizando Laravel y Livewire para garantizar un funcionamiento óptimo y seguro.
 
