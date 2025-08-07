@@ -25,7 +25,7 @@ Además de ser responsable del backend de la página web de la Policía de Tierr
 - **Automatización de backups y tareas programadas (cron jobs)**
 
 
-## 🛠️ Habilidades Técnicas
+## 🛠️Habilidades Técnicas
 
 - **Lenguajes:** PHP, Java, Python, JavaScript
 - **Frameworks:** Laravel, Livewire, Flask
@@ -35,7 +35,7 @@ Además de ser responsable del backend de la página web de la Policía de Tierr
 - **Otros:** APIs REST, integración de sistemas, seguridad en el desarrollo
 
 
-## 🌟 Proyectos Destacados
+## 🌟Proyectos Destacados
 
 - **Turnero Digital S.A.T.O**: Sistema de Adminisración Turnos en Online para la Policía de Tierra del Fuego, desarrollado en Laravel con PHP, MySQL. Optimiza la gestión de turnos y mejora la experiencia del usuario.
 - **ViggiAPP**: Aplicación móvil para el personal policial, que facilita el acceso a informmacion necesaria para la labor diaria, es una herramienta que forma parte del sistema web viggiWeb.
@@ -43,14 +43,14 @@ Además de ser responsable del backend de la página web de la Policía de Tierr
 - **Backend de la Página Web**: Responsable del desarrollo del backend de la página web institucional, utilizando Laravel y Livewire para garantizar un funcionamiento óptimo y seguro.
 
 
-## 🎓 Formación Académica
+## 🎓Formación Académica
 
 **Instituto Superior Teclab**  
 *Técnico Superior en Programación*  
 *Año de Graduación: 2023*
 
 
-## 🏅 Certificaciones
+## 🏅Certificaciones
 
 - **Curso de Java Avanzado**
 - **Curso de PHP con MySql**
@@ -60,14 +60,14 @@ Además de ser responsable del backend de la página web de la Policía de Tierr
 - **Diplomado Fundamentos de Informatica Forense**
 
   
-## 💡 Intereses
+## 💡Intereses
 
 - Diseño de arquitecturas backend seguras y eficientes.
 - Nuevas tecnologías y tendencias en desarrollo de software.
 - Participación activa en hackathons y competencias de programación.
 
 
-## 📬 Contacto
+## 📬Contacto
 
 ¿Te interesa colaborar, tienes una oportunidad laboral o querés intercambiar ideas?
 ¡Estoy abierto a nuevos desafíos!
