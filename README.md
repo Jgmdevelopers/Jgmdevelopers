@@ -4,9 +4,11 @@
 
 ![Gabriel - Programador](https://images.pexels.com/photos/943096/pexels-photo-943096.jpeg?auto=compress&cs=tinysrgb&w=600)
 
+
 ## Sobre Mí
 
 La programación no es solo mi trabajo, es mi vocación. Disfruto aprender, resolver problemas complejos y crear soluciones que impacten positivamente en las personas y en la comunidad. Mi experiencia en el sector público me ha enseñado a desarrollar software robusto, seguro y escalable bajo presión y en contextos de alta responsabilidad.
+
 
 ## Experiencia Profesional
 
@@ -15,26 +17,25 @@ La programación no es solo mi trabajo, es mi vocación. Disfruto aprender, reso
 Además de ser responsable del backend de la página web de la Policía de Tierra del Fuego, lidero proyectos clave como el Turnero Digital, un sistema de turnos en línea para la provincia, y una libreta personal para el personal policial, que actúa como una base de datos móvil.
 
 
-## DevOps & Servidores
+## 🖥️DevOps & Servidores
 
-- ** Configuración y administración básica de servidores Linux (VPS, Apache/Nginx, seguridad, monitoreo)**
-- ** Despliegue y actualización de aplicaciones web y APIs**
-- ** Manejo de bases de datos en producción**
-- ** Automatización de backups y tareas programadas (cron jobs)**
-
-
-## Habilidades Técnicas
-
-- **Lenguajes de Programación**: PhP, Java, Python, JavaScript
-- **Frameworks**: Laravel, Livewire, Flask
-- **Bases de Datos**: MySQL, Firebase
-- **Web**: HTML, CSS, JavaScript
-- **Tecnologías Web**: HTML, CSS, JavaScript
-- **Herramientas**: Git, GitHub, Thunder Client
-- **Otros**: APIs REST, Integración de sistemas, Seguridad en el desarrollo
+- **Configuración y administración básica de servidores Linux (VPS, Apache/Nginx, seguridad, monitoreo)**
+- **Despliegue y actualización de aplicaciones web y APIs**
+- **Manejo de bases de datos en producción**
+- **Automatización de backups y tareas programadas (cron jobs)**
 
 
-## Proyectos Destacados
+## 🛠️ Habilidades Técnicas
+
+- **Lenguajes:** PHP, Java, Python, JavaScript
+- **Frameworks:** Laravel, Livewire, Flask
+- **Bases de Datos:** MySQL, Firebase
+- **Web:** HTML, CSS, JavaScript
+- **Herramientas:** Git, GitHub, Thunder Client
+- **Otros:** APIs REST, integración de sistemas, seguridad en el desarrollo
+
+
+## 🌟 Proyectos Destacados
 
 - **Turnero Digital S.A.T.O**: Sistema de Adminisración Turnos en Online para la Policía de Tierra del Fuego, desarrollado en Laravel con PHP, MySQL. Optimiza la gestión de turnos y mejora la experiencia del usuario.
 - **ViggiAPP**: Aplicación móvil para el personal policial, que facilita el acceso a informmacion necesaria para la labor diaria, es una herramienta que forma parte del sistema web viggiWeb.
@@ -42,14 +43,14 @@ Además de ser responsable del backend de la página web de la Policía de Tierr
 - **Backend de la Página Web**: Responsable del desarrollo del backend de la página web institucional, utilizando Laravel y Livewire para garantizar un funcionamiento óptimo y seguro.
 
 
-## Formación Académica
+## 🎓 Formación Académica
 
 **Instituto Superior Teclab**  
 *Técnico Superior en Programación*  
 *Año de Graduación: 2023*
 
 
-## Certificaciones
+## 🏅 Certificaciones
 
 - **Curso de Java Avanzado**
 - **Curso de PHP con MySql**
@@ -59,14 +60,14 @@ Además de ser responsable del backend de la página web de la Policía de Tierr
 - **Diplomado Fundamentos de Informatica Forense**
 
   
-## Intereses
+## 💡 Intereses
 
 - Diseño de arquitecturas backend seguras y eficientes.
 - Nuevas tecnologías y tendencias en desarrollo de software.
 - Participación activa en hackathons y competencias de programación.
 
 
-## Contacto
+## 📬 Contacto
 
 ¿Te interesa colaborar, tienes una oportunidad laboral o querés intercambiar ideas?
 ¡Estoy abierto a nuevos desafíos!
