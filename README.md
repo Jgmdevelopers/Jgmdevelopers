@@ -41,7 +41,7 @@ Además de ser responsable del backend de la página web de la Policía de Tierr
 - **Curso de PHP con MySql** - Certificado.
 - **Curso de PHP Avanzado** - Certificado.
 - **Python Full Stack** - Certificado.
-- **Curso de Base de Datos** - En proceso de certificación
+- **Curso de Base de Datos** - Certificado.
 
 ## Intereses
 
@@ -53,6 +53,7 @@ Además de ser responsable del backend de la página web de la Policía de Tierr
 
 Si estás interesado en colaborar en proyectos innovadores o simplemente quieres saludar, ¡no dudes en ponerte en contacto conmigo!
 
+- **Web Personal**: [gabrielmolina.com.ar](mailto:gabrielmolina.com.ar)
 - **Correo Electrónico**: [jgmdevelopers@gmail.com](mailto:jgmdevelopers@gmail.com)
 - **LinkedIn**: [www.linkedin.com/in/gabriel-molina-ush](https://www.linkedin.com/in/gabriel-molina-ush)
 
