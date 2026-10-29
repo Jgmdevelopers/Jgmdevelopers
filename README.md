@@ -57,7 +57,14 @@ Reproductor de música de escritorio con gestión de canciones, listas y registr
 
 ## 🚧 En desarrollo: soluciones y aprendizaje aplicado
 
-- **FútbolClub Pro** — Plataforma SaaS orientada a la gestión de clubes deportivos. *Desarrollo privado en curso.*
+### ⚽ [FútbolClub Pro](https://github.com/Jgmdevelopers/futbolclub-pro-showcase)
+
+Plataforma de gestión de clubes deportivos con Laravel, Livewire y arquitectura multi-club.
+Incluye gestión de actividades, convocatorias, asistencia y controles de autorización.
+
+**Tecnologías:** PHP, Laravel 12, Livewire, Blade, Eloquent y PHPUnit.
+
+🔒 Código privado · 📖 Presentación técnica pública
 
 ### 🧠 [GM Predict AI](https://github.com/Jgmdevelopers/gm-predict-ai-showcase)
 
