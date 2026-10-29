@@ -58,7 +58,17 @@ Reproductor de música de escritorio con gestión de canciones, listas y registr
 ## 🚧 En desarrollo: soluciones y aprendizaje aplicado
 
 - **FútbolClub Pro** — Plataforma SaaS orientada a la gestión de clubes deportivos. *Desarrollo privado en curso.*
-- **GM Predict AI** — Proyecto personal en Python para procesar y validar series de datos, con foco en pruebas automatizadas. *Desarrollo en curso; código aún no publicado.*
+
+### 🧠 [GM Predict AI](https://github.com/Jgmdevelopers/gm-predict-ai-showcase)
+
+Proyecto experimental en Python orientado al análisis
+de series temporales, validación de datos y desarrollo
+guiado por pruebas (TDD).
+
+**Tecnologías:** Python, Pytest, Pandas y Pydantic.
+
+🔒 Código fuente privado | 📖 Presentación técnica pública
+
 - **Sistemas institucionales** — Experiencia en aplicaciones de gestión, turnos digitales y servicios backend. *El código de estos desarrollos no se publica por motivos de confidencialidad.*
 
 ## 🔍 Mi enfoque de trabajo
