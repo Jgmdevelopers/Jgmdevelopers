@@ -12,6 +12,18 @@ Me dedico a transformar necesidades reales en soluciones de software. Mi foco es
 
 ---
 
+## ⭐ Proyecto destacado: FútbolClub Pro
+
+### ⚽ [Conocé FútbolClub Pro — sitio web](https://jgmdevelopers.github.io/futbolclub-pro-showcase/)
+
+**Plataforma propia para la gestión de clubes y escuelas deportivas**, desarrollada con Laravel 12, Livewire y arquitectura multi-club. Incluye administración de clubes, categorías y jugadores, eventos, convocatorias con confirmación de asistencia (RSVP) y seguimiento deportivo.
+
+**Ingeniería y calidad:** permisos y aislamiento de datos entre clubes, pruebas automatizadas con PHPUnit e integración continua con GitHub Actions. La ejecución validada sobre `main` aprobó en **PHP 8.2, 8.3 y 8.4** (29/10/2026).
+
+🌐 **[Ver landing page](https://jgmdevelopers.github.io/futbolclub-pro-showcase/)** · 📖 **[Ver documentación pública](https://github.com/Jgmdevelopers/futbolclub-pro-showcase)**
+
+> Producto en desarrollo. El código fuente y los datos de usuarios se mantienen privados; la presentación pública incluye únicamente información técnica general y una vista conceptual con datos ficticios.
+
 ## 👨‍💻 Sobre mí
 
 - Tengo experiencia desarrollando y manteniendo aplicaciones web y herramientas digitales para el **sector público**, además de proyectos personales.
@@ -55,16 +67,7 @@ Reproductor de música de escritorio con gestión de canciones, listas y registr
 
 > También podés explorar mis demás [repositorios públicos](https://github.com/Jgmdevelopers?tab=repositories). Algunos proyectos son ejercicios de formación y otros están en proceso de documentación o mejora.
 
-## 🚧 En desarrollo: soluciones y aprendizaje aplicado
-
-### ⚽ [FútbolClub Pro](https://github.com/Jgmdevelopers/futbolclub-pro-showcase)
-
-Plataforma de gestión de clubes deportivos con Laravel, Livewire y arquitectura multi-club.
-Incluye gestión de actividades, convocatorias, asistencia y controles de autorización.
-
-**Tecnologías:** PHP, Laravel 12, Livewire, Blade, Eloquent y PHPUnit.
-
-🔒 Código privado · 📖 Presentación técnica pública
+## 🚧 Otros desarrollos y aprendizaje aplicado
 
 ### 🧠 [GM Predict AI](https://github.com/Jgmdevelopers/gm-predict-ai-showcase)
 
