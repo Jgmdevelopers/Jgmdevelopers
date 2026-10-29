@@ -1,83 +1,83 @@
-# Bienvenido/a a mi Perfil
+# 👋 ¡Hola! Soy Gabriel Molina
 
-¡Hola! Soy Gabriel, Técnico Superior en Programación con experiencia en el desarrollo Full Stack de software y residente en Ushuaia, provincia de Tierra del Fuego, Argentina. Actualmente, despliego mis habilidades en el área de desarrollo de la Policía de Tierra del Fuego, específicamente en la División de Comunicaciones.
+**Desarrollador Backend | PHP · Laravel · MySQL · APIs REST**
 
-![Gabriel - Programador](https://images.pexels.com/photos/943096/pexels-photo-943096.jpeg?auto=compress&cs=tinysrgb&w=600)
+📍 Ushuaia, Tierra del Fuego, Argentina  
+🎓 Técnico Superior en Programación  
+💼 Interesado en oportunidades de desarrollo **Backend / Full Stack**
 
+Me dedico a transformar necesidades reales en soluciones de software. Mi foco está en el desarrollo backend, la integración de sistemas y la mejora continua de la calidad y la seguridad del código.
 
-## Sobre Mí
+[LinkedIn](https://www.linkedin.com/in/gabriel-molina-ush/) · [Correo de contacto](mailto:jgmdevelopers@gmail.com) · [Repositorios públicos](https://github.com/Jgmdevelopers?tab=repositories)
 
-La programación no es solo mi trabajo, es mi vocación. Disfruto aprender, resolver problemas complejos y crear soluciones que impacten positivamente en las personas y en la comunidad. Mi experiencia en el sector público me ha enseñado a desarrollar software robusto, seguro y escalable bajo presión y en contextos de alta responsabilidad.
+---
 
+## 👨‍💻 Sobre mí
 
-## Experiencia Profesional
+- Tengo experiencia desarrollando y manteniendo aplicaciones web y herramientas digitales para el **sector público**, además de proyectos personales.
+- Trabajo principalmente con **PHP, Laravel, Livewire y MySQL**, con experiencia complementaria en **Java, Android y Python**.
+- Me interesan especialmente las **APIs REST**, la autenticación y autorización, la organización de la lógica de negocio y las pruebas automatizadas.
+- Continúo profundizando en **TDD, PHPUnit, pytest, arquitectura de software y prácticas de desarrollo seguro**.
+- También he trabajado con despliegues y mantenimiento básico de aplicaciones en entornos Linux.
 
-**Policía de Tierra del Fuego, División de Comunicaciones**  
-*Desarrollador de Software*  
-Además de ser responsable del backend de la página web de la Policía de Tierra del Fuego, lidero proyectos clave como el Turnero Digital, un sistema de turnos en línea para la provincia, y una libreta personal para el personal policial, que actúa como una base de datos móvil.
+## 🧰 Tecnologías y herramientas
 
+| Área | Tecnologías |
+| --- | --- |
+| **Backend** | PHP, Laravel, Livewire, Python, Java |
+| **Bases de datos** | MySQL, SQLite |
+| **Frontend** | HTML, CSS, JavaScript |
+| **Móvil e integraciones** | Android (Java), Firebase, APIs REST |
+| **Calidad y herramientas** | Git, GitHub, PHPUnit, pytest, pruebas automatizadas |
+| **Infraestructura** | Linux, Apache/Nginx, despliegue y mantenimiento básico |
 
-## 🖥️DevOps & Servidores
+## 📌 Proyectos con código público
 
-- **Configuración y administración básica de servidores Linux (VPS, Apache/Nginx, seguridad, monitoreo)**
-- **Despliegue y actualización de aplicaciones web y APIs**
-- **Manejo de bases de datos en producción**
-- **Automatización de backups y tareas programadas (cron jobs)**
+### 📝 [Blog social en PHP](https://github.com/Jgmdevelopers/Blog)
 
+Aplicación web con publicaciones de distinta visibilidad, comentarios, interacciones y gestión de relaciones entre usuarios. Incluye una estructura organizada en controladores, modelos y vistas.  
+**Tecnologías:** PHP, JavaScript, HTML y CSS.
 
-## 🛠️Habilidades Técnicas
+### 📚 [Gestión de Librería](https://github.com/Jgmdevelopers/Libreria_3F)
 
-- **Lenguajes:** PHP, Java, Python, JavaScript
-- **Frameworks:** Laravel, Livewire, Flask
-- **Bases de Datos:** MySQL, Firebase
-- **Web:** HTML, CSS, JavaScript
-- **Herramientas:** Git, GitHub, Thunder Client
-- **Otros:** APIs REST, integración de sistemas, seguridad en el desarrollo
+Aplicación de escritorio para administrar libros, autores y ventas. Incorpora persistencia en SQLite, reportes y exportación de información a CSV.  
+**Tecnologías:** Python, Tkinter y SQLite.
 
+### ☕ [JavaPokeApi](https://github.com/Jgmdevelopers/Poke-Api)
 
-## 🌟Proyectos Destacados
+Aplicación de escritorio que consume una API pública para consultar información de Pokémon por nombre o número y mostrar los resultados en una interfaz gráfica.  
+**Tecnologías:** Java e integración con API REST.
 
-- **Turnero Digital S.A.T.O**: Sistema de Adminisración Turnos en Online para la Policía de Tierra del Fuego, desarrollado en Laravel con PHP, MySQL. Optimiza la gestión de turnos y mejora la experiencia del usuario.
-- **ViggiAPP**: Aplicación móvil para el personal policial, que facilita el acceso a informmacion necesaria para la labor diaria, es una herramienta que forma parte del sistema web viggiWeb.
-- **ViggiWeb**: Aplicación Web para el personal policial, que tiene como fin la administración de los datos recabados desde la app mobile, la misma organiza los registros de cada usuario a travez de roles y permisos para que cada personal tenga un lugar seguro para administrar la informacion que necesita parar la laborl diaria.
-- **Backend de la Página Web**: Responsable del desarrollo del backend de la página web institucional, utilizando Laravel y Livewire para garantizar un funcionamiento óptimo y seguro.
+### 🎵 [MyMusic](https://github.com/Jgmdevelopers/MyMusic)
 
+Reproductor de música de escritorio con gestión de canciones, listas y registros de reproducciones en una base de datos.  
+**Tecnologías:** Java, Swing y MySQL.
 
-## 🎓Formación Académica
+> También podés explorar mis demás [repositorios públicos](https://github.com/Jgmdevelopers?tab=repositories). Algunos proyectos son ejercicios de formación y otros están en proceso de documentación o mejora.
 
-**Instituto Superior Teclab**  
-*Técnico Superior en Programación*  
-*Año de Graduación: 2023*
+## 🚧 En desarrollo: soluciones y aprendizaje aplicado
 
+- **FútbolClub Pro** — Plataforma SaaS orientada a la gestión de clubes deportivos. *Desarrollo privado en curso.*
+- **GM Predict AI** — Proyecto personal en Python para procesar y validar series de datos, con foco en pruebas automatizadas. *Desarrollo en curso; código aún no publicado.*
+- **Sistemas institucionales** — Experiencia en aplicaciones de gestión, turnos digitales y servicios backend. *El código de estos desarrollos no se publica por motivos de confidencialidad.*
 
-## 🏅Certificaciones
+## 🔍 Mi enfoque de trabajo
 
-- **Curso de Java Avanzado**
-- **Curso de PHP con MySql**
-- **Curso de PHP Avanzado**
-- **Python Full Stack** 
-- **Curso de Base de Datos** 
-- **Diplomado Fundamentos de Informatica Forense**
+Procuro escribir código **mantenible, comprobable y seguro**: separar responsabilidades, validar datos, controlar accesos, usar Git de forma ordenada y acompañar los cambios con pruebas cuando corresponde. Me interesa mejorar los sistemas existentes tanto como construir nuevas funcionalidades.
 
-  
-## 💡Intereses
+## 🎓 Formación
 
-- Diseño de arquitecturas backend seguras y eficientes.
-- Nuevas tecnologías y tendencias en desarrollo de software.
-- Participación activa en hackathons y competencias de programación.
+**Técnico Superior en Programación — Teclab (2023)**  
+Formación complementaria en PHP, Java, Python, bases de datos e informática forense.
 
+## 🤝 Conectemos
 
-## 📬Contacto
+Estoy abierto a conversar sobre oportunidades de desarrollo backend o full stack, colaboración técnica y proyectos de software.
 
-¿Te interesa colaborar, tienes una oportunidad laboral o querés intercambiar ideas?
-¡Estoy abierto a nuevos desafíos!
+- 💼 [LinkedIn](https://www.linkedin.com/in/gabriel-molina-ush/)
+- ✉️ [jgmdevelopers@gmail.com](mailto:jgmdevelopers@gmail.com)
+- 💻 [GitHub / Jgmdevelopers](https://github.com/Jgmdevelopers)
 
-- **Web Personal**: [gabrielmolina.com.ar](https://www.gabrielmolina.com.ar)
-- **Correo Electrónico**: [jgmdevelopers@gmail.com](mailto:jgmdevelopers@gmail.com)
-- **LinkedIn**: [www.linkedin.com/in/gabriel-molina-ush](https://www.linkedin.com/in/gabriel-molina-ush)
+---
 
-"La mejor parte de programar es transformar ideas en soluciones que funcionan y ayudan a los demás."
-
-¡Gracias por tu tiempo!
-
-
+*Me entusiasma construir soluciones útiles, aprender continuamente y convertir ideas en software que funcione.*
